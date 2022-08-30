@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kunimutt
 - 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C# and PHP
 - 📫 How to reach me: moa.haldorson@gmail.com
 
 <!---
