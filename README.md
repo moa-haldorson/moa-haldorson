@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kunimutt
 - 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning C# and Python
+- 🌱 I’m currently learning Svelte
 - 📫 How to reach me: moa.haldorson@gmail.com
 
 <!---
