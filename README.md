@@ -1,5 +1,5 @@
 # Hello! I'm Moa 👋
-### I'm a Front-End Developer based in Umeå, Sweden. 
+### I'm a front-end developer based in Umeå, Sweden. 
 
 - 🖥️ I'm currently working at Knowit Experience as a Sitevision developer. Sitevision is a Swedish web publishing tool (CMS) for creating engaging websites and intranets.
   
@@ -9,7 +9,7 @@
   
 - 🌱 At the moment I'm learning: Svelte and TypeScript
   
-- 📫 How to reach me: moa.haldorson@gmail.com
+- 📫 How to reach me: moa.haldorson@gmail.com or [LinkedIn](https://www.linkedin.com/in/moa-haldorson/)
 
 <br>
 
