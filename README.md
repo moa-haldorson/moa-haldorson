@@ -14,7 +14,7 @@
 <br>
 
 ## 🧩 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery&theme=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,git,github&theme=dark)](https://skillicons.dev) <br>
 ## 🎨 Creative
 [![My Graphic Design Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev) <br>
 ## 📚 Learning
