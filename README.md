@@ -3,7 +3,7 @@
 
 - 🖥️ I'm currently working at Knowit Experience as a Sitevision developer. Sitevision is a Swedish web publishing tool (CMS) for creating engaging websites and intranets.
   
-- 🎮 I enjoy gaming and currently I'm playing: Okami HD
+- 🎮 I enjoy gaming and currently I'm playing: The Legend of Zelda: Tears of the Kingdom
   
 - 🏃‍♀️ I also like to run and 🧶 crochet, but not at the same time! 😆
   
