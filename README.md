@@ -7,7 +7,7 @@
   
 - 🏃‍♀️ I also like to run and 🧶 crochet, but not at the same time! 😆
   
-- 🌱 At the moment I'm learning: Svelte and TypeScript
+- 🌱 At the moment I'm learning: React
   
 - 📫 How to reach me: moa.haldorson@gmail.com or [LinkedIn](https://www.linkedin.com/in/moa-haldorson/)
 
@@ -18,7 +18,7 @@
 ## 🎨 Creative
 [![My Graphic Design Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev) <br>
 ## 📚 Learning
-[![My Beginner Skills](https://skillicons.dev/icons?i=ts,svelte&theme=dark)](https://skillicons.dev) <br>
+[![My Beginner Skills](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev) <br>
 <!---
 Kunimutt/Kunimutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
