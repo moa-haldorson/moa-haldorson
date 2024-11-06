@@ -7,7 +7,7 @@
   
 - 🏃‍♀️ I also like to run and 🧶 crochet, but not at the same time! 😆
   
-- 🌱 At the moment I'm learning: React
+- 🌱 At the moment I'm learning: Vue
   
 - 📫 How to reach me: moa.haldorson@gmail.com or [LinkedIn](https://www.linkedin.com/in/moa-haldorson/)
 
