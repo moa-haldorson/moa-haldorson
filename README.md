@@ -7,7 +7,7 @@
   
 - 🏃‍♀️ I also like to run and 🧶 crochet, but not at the same time! 😆
   
-- 🌱 At the moment I'm learning: React
+- 🌱 At the moment I'm learning: React and TypeScript
   
 - 📫 How to reach me: moa.haldorson@gmail.com or [LinkedIn](https://www.linkedin.com/in/moa-haldorson/)
 
@@ -18,4 +18,4 @@
 ## 🎨 Creative
 [![My Graphic Design Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev) <br>
 ## 📚 Learning
-[![My Beginner Skills](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev) <br>
+[![My Beginner Skills](https://skillicons.dev/icons?i=react,ts&theme=dark)](https://skillicons.dev) <br>
