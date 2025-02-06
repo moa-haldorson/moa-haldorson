@@ -18,8 +18,4 @@
 ## 🎨 Creative
 [![My Graphic Design Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev) <br>
 ## 📚 Learning
-[![My Beginner Skills](https://skillicons.dev/icons?i=vue&theme=dark)](https://skillicons.dev) <br>
-<!---
-Kunimutt/Kunimutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![My Beginner Skills](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev) <br>
