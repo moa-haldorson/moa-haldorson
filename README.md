@@ -3,11 +3,11 @@
 
 - 🖥️ I'm currently working at Knowit Experience as a Sitevision developer. Sitevision is a Swedish web publishing tool (CMS) for creating engaging websites and intranets.
   
-- 🎮 I enjoy gaming and currently I'm playing: The Legend of Zelda: Tears of the Kingdom
+- 🎮 I enjoy gaming and currently I'm playing: Baldur's Gate 3
   
 - 🏃‍♀️ I also like to run and 🧶 crochet, but not at the same time! 😆
   
-- 🌱 At the moment I'm learning: Vue
+- 🌱 At the moment I'm learning: React
   
 - 📫 How to reach me: moa.haldorson@gmail.com or [LinkedIn](https://www.linkedin.com/in/moa-haldorson/)
 
