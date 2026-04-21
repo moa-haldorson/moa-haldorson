@@ -3,9 +3,9 @@
 
 - 🖥️ I'm currently working at Knowit Experience as a Sitevision developer. Sitevision is a Swedish web publishing tool (CMS) for creating engaging websites and intranets.
   
-- 🎮 I enjoy gaming and currently I'm playing: Clair Obscur: Expedition 33
+- 🎮 I enjoy gaming and currently I'm playing: Pokopia
   
-- 🏃‍♀️ I also like to run and crochet 🧶
+- 🏃‍♀️ I also like running, 🧶 knitting and crocheting 
   
 - 🌱 At the moment I'm learning: React and TypeScript
   
