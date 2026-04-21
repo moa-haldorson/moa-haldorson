@@ -7,15 +7,15 @@
   
 - 🏃‍♀️ I also like running, 🧶 knitting and crocheting 
   
-- 🌱 At the moment I'm learning: React and TypeScript
+- 🌱 At the moment I'm learning: Node.js, Express and Next.js
   
 - 📫 How to reach me: moa.haldorson@gmail.com or [LinkedIn](https://www.linkedin.com/in/moa-haldorson/)
 
 <br>
 
 ## 🧩 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,jquery,git,github,bitbucket&theme=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,jquery,git,github,bitbucket,vscode&theme=dark)](https://skillicons.dev) <br>
 ## 🎨 Creative
 [![My Graphic Design Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev) <br>
 ## 📚 Learning
-[![My Beginner Skills](https://skillicons.dev/icons?i=react,ts&theme=dark)](https://skillicons.dev) <br>
+[![My Beginner Skills](https://skillicons.dev/icons?i=nodejs,express,nextjs&theme=dark)](https://skillicons.dev) <br>
