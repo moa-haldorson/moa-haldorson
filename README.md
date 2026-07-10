@@ -3,7 +3,7 @@
 
 - 🖥️ I'm currently working at Knowit Experience as a developer, specialized in Sitevision. Sitevision is a Swedish web publishing tool (CMS) for creating engaging websites and intranets.
   
-- 🎮 I enjoy gaming and currently I'm playing: Pokopia
+- 🎮 I enjoy gaming and currently I'm playing: Baldur's Gate 3 and Pokopia
   
 - 🏃‍♀️ I also like running, 🧶 knitting and crocheting 
   
